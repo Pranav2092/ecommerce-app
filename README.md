@@ -1,6 +1,3 @@
-This a full stack web development project. It is a MERN stack project. It is an ecommerce website.
-Details of the project is as follows.
-
 ---
 
 # E-Commerce App
